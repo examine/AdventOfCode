@@ -9,3 +9,16 @@ C:\Users\vhor\Documents\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.AssemblyI
 C:\Users\vhor\Documents\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.AssemblyInfo.cs
 C:\Users\vhor\Documents\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.dll
 C:\Users\vhor\Documents\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.pdb
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\bin\Debug\netcoreapp3.1\day1.exe
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\bin\Debug\netcoreapp3.1\day1.deps.json
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\bin\Debug\netcoreapp3.1\day1.runtimeconfig.json
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\bin\Debug\netcoreapp3.1\day1.runtimeconfig.dev.json
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\bin\Debug\netcoreapp3.1\day1.dll
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\bin\Debug\netcoreapp3.1\day1.pdb
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.csprojAssemblyReference.cache
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.AssemblyInfoInputs.cache
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.AssemblyInfo.cs
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.csproj.CoreCompileInputs.cache
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.dll
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.pdb
+C:\Users\Vetle\Documents\AdventOfCode\AdventOfCode\AdventOfCode\day1\obj\Debug\netcoreapp3.1\day1.genruntimeconfig.cache
