@@ -32,7 +32,7 @@ namespace day1
                             var sum = numbers[firstNumber] * numbers[secondNumber] * numbers[thirdNumber];
 
                             Console.WriteLine(sum);                            
-                            Console.WriteLine("-------------------------------------");
+                            Console.WriteLine("--------------------------------------");
                             Console.WriteLine(numbers[firstNumber] * numbers[secondNumber] * numbers[thirdNumber]);
                         }
                     }
